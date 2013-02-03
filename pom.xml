@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.minestar</groupId>
+  <artifactId>MinestarPlugins</artifactId>
+  <version>1.4.6_1</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>../AdminStuff</module>
+  	<module>../BuyCraft</module>
+  	<module>../CastAway</module>
+  	<module>../git/ContaoTwo</module>
+  	<module>../DieHard</module>
+  	<module>../git/FalseBookBlock</module>
+  	<module>../git/FalseBookCart</module>
+  	<module>../git/FalseBookChat</module>
+  	<module>../git/FalseBookCore</module>
+  	<module>../git/FalseBookExtra</module>
+  	<module>../FifthElement</module>
+  	<module>../git/FrontSchweine</module>
+  	<module>../GreenMile</module>
+  	<module>../Illuminati</module>
+  	<module>../git/Mercury-Puzzle</module>
+  	<module>../git/MineStarLibrary</module>
+  	<module>../MinestarCore</module>
+  	<module>../MoneyPit</module>
+  	<module>../SinCity</module>
+  	<module>../TheRock</module>
+  </modules>
+</project>
